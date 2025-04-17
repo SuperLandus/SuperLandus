@@ -10,7 +10,7 @@ We are a compact and dynamic team of three full-stack developers passionate abou
 
 <p align="center">
   <a href="mailto:superlandus@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-h.golcuk91%40outlook.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-superlandus@hotmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/SuperLandus">
     <img src="https://img.shields.io/badge/GitHub-SuperLandus-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -109,7 +109,7 @@ Modern, ölçeklenebilir ve kullanıcı odaklı web uygulamaları geliştiren ü
 
 <p align="center">
   <a href="mailto:superlandus@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-h.golcuk91%40outlook.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-superlandus@hotmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/SuperLandus">
     <img src="https://img.shields.io/badge/GitHub-SuperLandus-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
