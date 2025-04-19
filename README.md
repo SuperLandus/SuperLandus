@@ -12,7 +12,7 @@ We are a compact and dynamic team of three full-stack developers passionate abou
   <a href="mailto:superlandus@hotmail.com">
     <img src="https://img.shields.io/badge/Email-superlandus@hotmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/SuperLandus">
+  <a href="https://github.com/Super-Landus">
     <img src="https://img.shields.io/badge/GitHub-SuperLandus-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
