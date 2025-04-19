@@ -1,4 +1,4 @@
-# SuperLandus Tech Team 🚀
+# SuperLandus Project Team 🚀
 
 We are a compact and dynamic team of three full-stack developers passionate about building scalable, modern, and user-centric web applications.
 
